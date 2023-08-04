@@ -6,7 +6,7 @@ This is a simple Angular POC created by Abhishek Choubey. <br/>
 In this POC I started building Admin Portal for Shopping website <br/>
 This is 9th code push for the Admin Portal, for building this portal I am using Angular.<br/>
 
-<b>Highlights of 8th Push</b> <br/>
+<b>Highlights of 9th Push</b> <br/>
 
 Side bar issue fixed. <br/>
 
